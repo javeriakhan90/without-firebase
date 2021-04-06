@@ -1,0 +1,78 @@
+body{
+    background: linear-gradient(135deg,#DB6BC1,#64b5f6);
+}
+.main{
+    position: fixed;
+    left: 230px;
+    top: 220px;
+}
+input{
+    width: 350px;
+    height: 40px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 25px;
+    border: none;
+    border-bottom: 3px black solid;
+    background: none;
+    outline: none;
+}
+.add{
+    width: 100px;
+    height: 40px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    outline: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.dt{
+    width: 120px;
+    height: 40px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    outline: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.del{
+    width: 80px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 7px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+    background-color: #D42503 ;
+    outline: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.edit{
+    width: 80px;
+    height: 30px;
+    margin-left: 5px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+    background-color: #16BF51 ;
+    outline: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.li{
+    position: relative;
+    top: 300px;
+    left: 350px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 25px;
+}
